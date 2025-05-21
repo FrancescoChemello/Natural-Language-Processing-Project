@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+.DS_Store
+.env.local
+.env.develpment.local
+.env.production.local
+.env.test.local
+.env.development
+.env.production
+.env.test
