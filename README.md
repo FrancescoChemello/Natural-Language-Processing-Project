@@ -19,7 +19,7 @@ This repository is a template repository for the homeworks to be developed in th
 The repository is organised as follows:
 
 ## Datasets Used ##
-The dataset used for the **NER** task is [NER_dataset by Naman Jaswani](https://www.kaggle.com/datasets/namanj27/ner-dataset) available on **Kraggle**.
+The dataset used for the **NER** task is [NER Data by Raj Nath Patel](https://www.kaggle.com/datasets/rajnathpatel/ner-data) available on **Kraggle**.
 
 ## How to run the code ##
 The code is written in *.ipynb*.
