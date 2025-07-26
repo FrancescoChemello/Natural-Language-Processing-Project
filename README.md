@@ -31,7 +31,7 @@ It contains English sentences annotated with *Person (PER)*, *Organization (ORG)
 This project uses *four* different Gemini models:
 - **`gemini-2.0-flash`:** A highly efficient and versatile model from the Gemini API family.
 - **`gemini-2.0-flash-lite`:** A lighter-weight variant of the Gemini Flash model, also accessed via the API.
-- **`gemma-3-4b-it`:** A Google-developed model from the Gemma series, specifically identified as a 4 billion parameter version tailored for Italian (indicated by the -it suffix).
+- **`gemma-3-4b-it`:** A Google-developed model from the Gemma series, specifically identified as a 4 billion parameter version tailored for Italian (indicated by the -it suffix), which is important context as the project evaluates its zero-shot NER performance on English input.
 - **`gemma-3-27b-it`:** A larger, more capable Google-developed model from the Gemma series, with 27 billion parameters and similarly focused on Italian language processing.
 
 ### How to get a Gemini API key
