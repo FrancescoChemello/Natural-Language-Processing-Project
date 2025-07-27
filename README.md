@@ -64,6 +64,12 @@ To run the code follow these steps:
 3. Run all cells in the notebook using **Run All**.
     >**Note:** It might take a while.
 
+## Results ##
+
+A summary of the main results is reported below.  
+**Full experimental results** (including all models, prompts, and metrics) are available in [this shared Google Sheet](https://docs.google.com/spreadsheets/d/1cZ0xbIeKydzLzw0u5VHuGuLZPB2Hhj2TBBDGkp7bSPI/edit?usp=sharing).  
+> **Note:** Only members of the University of Padua can access it.
+
 ### License ###
 
 All the contents of this repository are shared using the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
